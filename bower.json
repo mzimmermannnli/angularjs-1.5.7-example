@@ -1,0 +1,22 @@
+{
+  "name": "angularjs-1.5.7-example",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Martin Zimmermann"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mzimmermannnli/angularjs-1.5.7-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/resources/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.8",
+    "angular": "^1.5.8"
+  }
+}

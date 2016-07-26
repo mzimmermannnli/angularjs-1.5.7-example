@@ -1,0 +1,27 @@
+{
+  "name": "angularjs-1.5.7-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "gulp-cli": "^1.2.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.1.0",
+    "main-bower-files": "^2.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzimmermannnli/angularjs-1.5.7-example.git"
+  },
+  "author": "Martin Zimmermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzimmermannnli/angularjs-1.5.7-example/issues"
+  },
+  "homepage": "https://github.com/mzimmermannnli/angularjs-1.5.7-example#readme"
+}
